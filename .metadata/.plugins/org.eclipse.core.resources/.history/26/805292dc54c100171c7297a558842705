@@ -1,0 +1,26 @@
+package com.divyang.spring.service;
+
+import java.util.HashSet;
+
+import com.divyang.spring.model.Employee;
+
+public class EmployeeService {
+	
+	HashSet <Employee>employeeService = new HashSet <Employee>();
+
+	public String EmployeeCreate(Employee employee) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public boolean EmployeeUpdate(String id, Employee employee) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public boolean Employeedelete(String id) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

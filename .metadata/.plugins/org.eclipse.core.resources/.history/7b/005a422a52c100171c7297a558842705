@@ -1,0 +1,5 @@
+package com.divyang.spring.model;
+
+public class Employee {
+
+}

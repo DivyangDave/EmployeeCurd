@@ -1,0 +1,5 @@
+package com.divyang.spring.config;
+
+public class MyWebAppInitializer {
+
+}
